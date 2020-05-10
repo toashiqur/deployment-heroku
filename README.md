@@ -1,4 +1,4 @@
-Though it uses PyCaret it shows how to deploy on Heroku free web server easily - AR
+## Though it uses PyCaret it shows how to deploy on Heroku free web server easily - AR
 
 # Build and deploy your first machine learning web app
 #### A beginner’s guide to train and deploy machine learning pipelines in Python using PyCaret
